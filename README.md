@@ -1,5 +1,3 @@
-Omen v0.7.0
-
 Omen is a map editor for Minecraft. It can make maps for creative multiplayer and indev.
 
 It uses Java, so you will need an up to date version of java installed.
@@ -132,4 +130,7 @@ PNG importer will now pick nearest colour
 Last edited block now appears in status bar
 Spawn point picker (possibly broken, if so I'll fix it next release)
 
-(This is a backup of Omen 0.7.0)
+v0.4.0
+This is the first released version
+
+(This is a backup of Omen World edit)
