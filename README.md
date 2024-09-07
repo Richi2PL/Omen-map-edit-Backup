@@ -6,7 +6,7 @@ It uses Java, so you will need an up to date version of java installed.
 You must have the minecraft server installed in order to load/save multiplayer maps with Omen (.dat files). Omen is not a server, only an editor.
 Place Omen070.jar and runOmen.bat in the same directory as minecraft-server.jar.
 
-Double click Omen070.jar to run the editor, or use runOmen.bat to start the editor with more memory.
+Double click Omen070, Omen060, Omen050 or OME.jar to run the editor, or use runOmen.bat to start the editor with more memory.
 
 
 There WILL be bugs, so please report them in the thread here:
