@@ -134,4 +134,4 @@ v0.4.0
 
 This is the first released version
 
-(This is a backup of Omen World edit)
+(This is a backup of Omen map edit)
