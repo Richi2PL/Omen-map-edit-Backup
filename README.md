@@ -131,6 +131,7 @@ Last edited block now appears in status bar
 Spawn point picker (possibly broken, if so I'll fix it next release)
 
 v0.4.0
+
 This is the first released version
 
 (This is a backup of Omen World edit)
